@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feriel-barira&label=Profile%20views&color=0e75b6&style=flat" alt="feriel-barira" /> </p>
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 Information Systems Engineer building web & mobile apps
 
-- 💬 Ask me about **react, nodejs , web**
+- 💬 Ask me about **React**, **Node.js** and **web development**
 
 - 📫 How to reach me **feriel.barira.etudiante@gmail.com**
 
