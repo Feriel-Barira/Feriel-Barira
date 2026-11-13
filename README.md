@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Feriel Barira</h1>
-<h3 align="center">Information Systems Engineer & Full-Stack Developer from Tunisia 🇹🇳</h3>
+<h3 align="center">Information Systems Engineer & Full-Stack Developer | 1.5+ years of experience</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=feriel-barira&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
