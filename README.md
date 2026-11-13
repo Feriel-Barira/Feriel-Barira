@@ -52,8 +52,8 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/feriel-barira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ferielbarira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://feriel-barira.github.io/portfolio_feriel/"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:feriel.barira.etudiante@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
