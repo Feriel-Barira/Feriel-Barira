@@ -8,7 +8,7 @@
 - 🔭 I build web & mobile apps with React, Angular, Node.js, Spring Boot and Flutter
 - 🌱 Currently exploring Next.js, TypeScript and Docker
 - 💬 Ask me about **React**, **Node.js** and **full-stack development**
-- 📫 Reach me on [LinkedIn]([https://linkedin.com/in/feriel-barira](https://www.linkedin.com/in/ferielbarira/)) or via my [portfolio]([YOUR-PORTFOLIO-LINK](https://feriel-barira.github.io/portfolio_feriel/))
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/feriel-barira) or via my [portfolio](https://feriel-barira.github.io/portfolio_feriel/)
 - ⚡ Fun fact: I love turning ideas into working apps
 
 <h3 align="left">Tech stack</h3>
